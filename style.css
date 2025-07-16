@@ -19,8 +19,9 @@ input, button {
     font-size: 16px;
 }
 #canvas {
-   border: 5px solid black;
-   height: 500px;
-   width: 900px;
-   margin-bottom: 2em;
+    border: 5px solid black;
+    height: 500px;
+    width: 900px;
+    margin-bottom: 2em;
 }
+
